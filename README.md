@@ -1,8 +1,6 @@
 # taskmanager
 
-A new Flutter project.
-
-## Getting Started
+Task Management App
 
 This project is a starting point for a Flutter application.
 
